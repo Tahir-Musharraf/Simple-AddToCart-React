@@ -4,4 +4,4 @@ This application uses Context API, React Routers, and Faker for generating fake 
 
 ## How to Install
 
-You can install by using `npm install` and Run development server by using command `npm start' 
+You can install by using `npm install` and Run development server by using command `npm start`.
